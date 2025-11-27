@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "total_resources": 11,
+    "by_category": {
+      "CONTACT": 2,
+      "FACILITY": 9
+    },
+    "by_tag": {
+      "covid19": 2,
+      "pediatric": 2,
+      "emergency": 4,
+      "medication": 2,
+      "health_care": 4,
+      "pharmacy": 2,
+      "hospital": 1
+    },
+    "crawl_info": {
+      "url": "https://health.ucsd.edu/",
+      "timestamp": "2025-11-26T10:30:11.168617",
+      "student_name": "Karina_Recinos"
+    }
+  },
+  "detailed_results": {
+    "url": "https://health.ucsd.edu/",
+    "timestamp": "2025-11-26T10:30:11.168617",
+    "resources": [
+      {
+        "category": "CONTACT",
+        "type": "phone",
+        "value": "858-657-7000",
+        "tags": [
+          "covid19",
+          "pediatric",
+          "emergency",
+          "medication",
+          "health_care",
+          "pharmacy"
+        ],
+        "context": "general page content"
+      },
+      {
+        "category": "CONTACT",
+        "type": "phone",
+        "value": "858-657-7000",
+        "tags": [
+          "covid19",
+          "pediatric",
+          "emergency",
+          "medication",
+          "health_care",
+          "pharmacy"
+        ],
+        "context": "general page content"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "#1 Ranked Hospital in California by US News & World Report - UC San Diego Health",
+        "tags": [
+          "hospital"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Expert Care, When and Where You Need It",
+        "tags": [
+          "emergency"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Find Care inYour Community",
+        "tags": [],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "MyUCSDHealth Care Connection",
+        "tags": [
+          "health_care"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "MyUCSDHealth Care Connection",
+        "tags": [
+          "health_care"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Primary Care",
+        "tags": [],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Same-Day Care",
+        "tags": [],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Emergency Care",
+        "tags": [
+          "emergency"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "#UCSDHealth",
+        "tags": [],
+        "context": "page headings"
+      }
+    ]
+  }
+}

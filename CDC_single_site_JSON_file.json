@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "total_resources": 5,
+    "by_category": {
+      "CONTACT": 2,
+      "FACILITY": 3
+    },
+    "by_tag": {
+      "flu": 3,
+      "vaccination": 2,
+      "pediatric": 2,
+      "emergency": 4,
+      "treatment": 2,
+      "medication": 2,
+      "antiviral_drugs": 3,
+      "viruses": 3,
+      "bacterial": 2,
+      "health_care": 4,
+      "pharmacy": 2
+    },
+    "crawl_info": {
+      "url": "https://www.cdc.gov/flu/treatment/index.html",
+      "timestamp": "2025-11-26T10:16:59.212681",
+      "student_name": "Karina_Recinos"
+    }
+  },
+  "detailed_results": {
+    "url": "https://www.cdc.gov/flu/treatment/index.html",
+    "timestamp": "2025-11-26T10:16:59.212681",
+    "resources": [
+      {
+        "category": "CONTACT",
+        "type": "phone",
+        "value": "800-232-4636",
+        "tags": [
+          "flu",
+          "vaccination",
+          "pediatric",
+          "emergency",
+          "treatment",
+          "medication",
+          "antiviral_drugs",
+          "viruses",
+          "bacterial",
+          "health_care",
+          "pharmacy"
+        ],
+        "context": "general page content"
+      },
+      {
+        "category": "CONTACT",
+        "type": "phone",
+        "value": "800-232-4636",
+        "tags": [
+          "flu",
+          "vaccination",
+          "pediatric",
+          "emergency",
+          "treatment",
+          "medication",
+          "antiviral_drugs",
+          "viruses",
+          "bacterial",
+          "health_care",
+          "pharmacy"
+        ],
+        "context": "general page content"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "1. Take flu antiviral drugs, if a health care provider prescribes them.",
+        "tags": [
+          "flu",
+          "emergency",
+          "antiviral_drugs",
+          "viruses",
+          "health_care"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Health Care Providers",
+        "tags": [
+          "emergency",
+          "health_care"
+        ],
+        "context": "page headings"
+      },
+      {
+        "category": "FACILITY",
+        "type": "facility_name",
+        "value": "Public Health",
+        "tags": [],
+        "context": "page headings"
+      }
+    ]
+  }
+}
