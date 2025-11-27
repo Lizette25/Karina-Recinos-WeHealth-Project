@@ -11,7 +11,7 @@ The health resource crawler analyzes a health-related webpage. It extracts:
 
 Details are stored in a JSON file. This file contains the information shown in the output summary.
 
-** Features of the Program **
+**Features of the Program**
 
 - Fetches and parses a webpage
 
@@ -21,13 +21,13 @@ Details are stored in a JSON file. This file contains the information shown in t
 
 - Identifies healthcare facilities
 
-** Project Setup **
+**Project Setup**
 
 - Python 3.14 or IDLE 3.14
 
 - Stable internet connection
 
-** Installation Package Requirements **
+**Installation Package Requirements**
 
 Go to your computer’s command terminal and run:
 - bash
